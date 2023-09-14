@@ -4,6 +4,8 @@
 
 https://drive.google.com/file/d/1gPZSDv-xSsSl3WydECrSlq0YevxQzm4F/view?usp=sharing
 
+https://drive.google.com/file/d/1LV3cy5UsaYPJqOSMFS_uL0KXqgGFCzJq/view?usp=sharing
+
 ## Links
 
 https://ravichaganti.com/blog/2022-10-18-understanding-container-images-the-fundamentals/
